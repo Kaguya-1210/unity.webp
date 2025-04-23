@@ -15,7 +15,7 @@
 
 Choose your preference:
 
-### Using OpenUPM installer
+### Using OpenUPM installer4
 
 Download and install via the [Package Installer](http://package-installer.glitch.me/v1/installer/OpenUPM/com.netpyoung.webp?registry=https://package.openupm.com). No manual registry setup is needed. 
 
